@@ -1,0 +1,10 @@
+C:\Users\sunxueyang\Desktop\RMQ\winformServer\bin\Debug\winformServer.exe.config
+C:\Users\sunxueyang\Desktop\RMQ\winformServer\bin\Debug\winformServer.exe
+C:\Users\sunxueyang\Desktop\RMQ\winformServer\bin\Debug\winformServer.pdb
+C:\Users\sunxueyang\Desktop\RMQ\winformServer\bin\Debug\RabbitMQ.Client.dll
+C:\Users\sunxueyang\Desktop\RMQ\winformServer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\sunxueyang\Desktop\RMQ\winformServer\obj\Debug\winformServer.Form1.resources
+C:\Users\sunxueyang\Desktop\RMQ\winformServer\obj\Debug\winformServer.Properties.Resources.resources
+C:\Users\sunxueyang\Desktop\RMQ\winformServer\obj\Debug\winformServer.csproj.GenerateResource.Cache
+C:\Users\sunxueyang\Desktop\RMQ\winformServer\obj\Debug\winformServer.exe
+C:\Users\sunxueyang\Desktop\RMQ\winformServer\obj\Debug\winformServer.pdb

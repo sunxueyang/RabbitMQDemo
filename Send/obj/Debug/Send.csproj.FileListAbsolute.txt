@@ -1,0 +1,8 @@
+C:\Users\sunxueyang\Desktop\RMQ\Send\bin\Debug\Send.exe.config
+C:\Users\sunxueyang\Desktop\RMQ\Send\bin\Debug\Send.exe
+C:\Users\sunxueyang\Desktop\RMQ\Send\bin\Debug\Send.pdb
+C:\Users\sunxueyang\Desktop\RMQ\Send\bin\Debug\RabbitMQ.Client.dll
+C:\Users\sunxueyang\Desktop\RMQ\Send\bin\Debug\RabbitMQ.Client.xml
+C:\Users\sunxueyang\Desktop\RMQ\Send\obj\Debug\Send.exe
+C:\Users\sunxueyang\Desktop\RMQ\Send\obj\Debug\Send.pdb
+C:\Users\sunxueyang\Desktop\RMQ\Send\bin\Debug\RabbitMQ.ServiceModel.dll

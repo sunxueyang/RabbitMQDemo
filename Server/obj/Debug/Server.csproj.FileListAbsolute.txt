@@ -1,0 +1,9 @@
+C:\Users\sunxueyang\Desktop\RMQ\Server\bin\Debug\Server.exe.config
+C:\Users\sunxueyang\Desktop\RMQ\Server\bin\Debug\Server.exe
+C:\Users\sunxueyang\Desktop\RMQ\Server\bin\Debug\Server.pdb
+C:\Users\sunxueyang\Desktop\RMQ\Server\bin\Debug\RabbitMQ.Client.dll
+C:\Users\sunxueyang\Desktop\RMQ\Server\bin\Debug\RabbitMQ.ServiceModel.dll
+C:\Users\sunxueyang\Desktop\RMQ\Server\bin\Debug\RabbitMQ.Client.xml
+C:\Users\sunxueyang\Desktop\RMQ\Server\obj\Debug\Server.exe
+C:\Users\sunxueyang\Desktop\RMQ\Server\obj\Debug\Server.pdb
+C:\Users\sunxueyang\Desktop\RMQ\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
